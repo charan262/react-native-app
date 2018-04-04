@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#f5Fcff",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#fafafa",
+        "borderColor": "#27467f",
+        "borderRadius": 100,
+        "borderWidth": 4,
+        "height": 100,
+        "justifyContent": "center",
+        "padding": 8,
+        "width": 100,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Image
+      collapsable={undefined}
+      source={Object {}}
+      style={
+        Object {
+          "transform": Array [
+            Object {
+              "rotate": "0deg",
+            },
+          ],
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "height": 88,
+      }
+    }
+  />
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#fafafa",
+        "borderColor": "#27467f",
+        "borderRadius": 100,
+        "borderWidth": 4,
+        "height": 100,
+        "justifyContent": "center",
+        "padding": 8,
+        "width": 100,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Image
+      collapsable={undefined}
+      source={Object {}}
+      style={
+        Object {
+          "transform": Array [
+            Object {
+              "rotate": "0deg",
+            },
+          ],
+        }
+      }
+    />
+  </View>
+</View>
+`;
